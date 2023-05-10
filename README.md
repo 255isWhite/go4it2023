@@ -16,8 +16,8 @@ English | [简体中文](.github/README_cn.md)
 ## <div align="center">Content</div>
 
 <details open>
-
 <summary>Summer Camps Timeline</summary>
+<center>
 
 |School Name|Project|Start date|End time|Status|
 |:-:|:-:|:-:|:-:|:-:|
@@ -27,11 +27,8 @@ English | [简体中文](.github/README_cn.md)
 |西湖大学|工学院|04.12|06.12-12:00|X|
 |上科大|信息学院|04.24|06.30|X|
 
-
+</center>
 </details>
-
-
-
 
 ## <div align="center">Contact</div>
 Welcome all questions in issues tag or if u wanna contact me at nocap.wzh@gmail.com
