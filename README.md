@@ -24,6 +24,12 @@ English | [简体中文](.github/README_cn.md)
 </details>
 
 <details open>
+<summary>School Preference</summary>
+
+- Better than c9
+</details>
+
+<details open>
 <summary>Summer Camps Application Timeline</summary>
 <center>
 
