@@ -43,6 +43,7 @@ English | [简体中文](.github/README_cn.md)
 |同济|汽车学院|05.16|06.15-17:00|X|[Y](https://auto.tongji.edu.cn/info/1013/8999.htm)|
 |上交|电院|05.20|06.15-24:00|X|[Y](https://mp.weixin.qq.com/s/IERz0GMemmwelCO2YLPMMw)|
 |上交|机械学院|05.29|06.17-00:00|X|[Y](http://ga.sjtu.edu.cn/zsgl/xlygl/yxhdbfcxnr.aspx)|
+|浙大|控制学院|05.20|06.21-00:00|X|[Y](http://www.cse.zju.edu.cn/2023/0520/c39333a2759662/page.htm)|
 |北大|智能学院|
 |北大|工学院|
 |北大|信息工程学院|
@@ -51,7 +52,6 @@ English | [简体中文](.github/README_cn.md)
 |哈深|机电学院|
 |北理|机械与车辆学院|
 |浙大|机械学院|
-|浙大|控制学院|
 |华科||
 |武大||
 |人大||
@@ -69,6 +69,9 @@ English | [简体中文](.github/README_cn.md)
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-:|:-:|:-:|:-:|:-:|
+|复旦|工研院|06.30|07.03|
+|同济|汽车|07.02|07.05 am||
+|上交|控制|07.05 tb|07.05 tb||
 
 
 
