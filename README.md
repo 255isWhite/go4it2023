@@ -43,10 +43,12 @@ English | [简体中文](.github/README_cn.md)
 |同济|汽车学院|05.16|06.15-17:00|X|[Y](https://auto.tongji.edu.cn/info/1013/8999.htm)|
 |上交|电院|05.20|06.15-24:00|X|[Y](https://mp.weixin.qq.com/s/IERz0GMemmwelCO2YLPMMw)|
 |上交|机械学院|05.29|06.17-00:00|X|[Y](http://ga.sjtu.edu.cn/zsgl/xlygl/yxhdbfcxnr.aspx)|
+|上交|密西根|05.23|06.27-24::00|X|[Y](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-05-24/138602/)|
 |浙大|控制学院|05.20|06.21-00:00|X|[Y](http://www.cse.zju.edu.cn/2023/0520/c39333a2759662/page.htm)|
+|北大|工学院|05.24|06.12-08:00|X|[Y](https://www.coe.pku.edu.cn/graduate/notice/12117.html)|
+|北大|信息工程学院|05.24|06.25-24:00|X|[Y](https://www.ece.pku.edu.cn/info/1027/2607.htm)|
+|中山|AI|05.26|06.15-24:00|X|[Y](https://sai.sysu.edu.cn/teach/graduate/1409130.htm)|
 |北大|智能学院|
-|北大|工学院|
-|北大|信息工程学院|
 |清深|信息科学学部|
 |哈本|机器人所|
 |哈深|机电学院|
@@ -56,7 +58,6 @@ English | [简体中文](.github/README_cn.md)
 |武大||
 |人大||
 |南科||
-|中山||
 |天大||
 
 
@@ -72,7 +73,7 @@ English | [简体中文](.github/README_cn.md)
 |复旦|工研院|06.30|07.03|
 |同济|汽车|07.02|07.05 am||
 |上交|控制|07.05 tb|07.05 tb||
-
+|上交|密西根|07.12|07.14||
 
 
 
