@@ -49,13 +49,14 @@ English | [简体中文](.github/README_cn.md)
 |北大|信息工程学院|05.24|06.25-24:00|X|[Y](https://www.ece.pku.edu.cn/info/1027/2607.htm)|
 |北大|智能学院|05.29|06.14-24:00|X|[Y](https://www.cis.pku.edu.cn/info/1034/2720.htm)|
 |中山|AI|05.26|06.15-24:00|X|[Y](https://sai.sysu.edu.cn/teach/graduate/1409130.htm)|
+|中山|智能工程学院|06.02|06.28|X|[Y](https://ise.sysu.edu.cn/notice/1409203.htm)|
 |中科|科学岛|06.01|06.30|X|[Y](https://xly.ustc.edu.cn/news.php?newsid=932)|
 |中科|先研院|06.01|06.30|X|[Y](https://xly.ustc.edu.cn/news.php?newsid=925)|
 |中科|10系|06.01|06.30|X|[Y](https://xly.ustc.edu.cn/news.php?newsid=925)|
 |杭高|智能科学技术|05.31|06.12|X|[Y](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)|
 |国科|沈阳自所|05.30|06.30-17:00|X|[Y](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202305/t20230530_6765083.html)|
 |国科|自所|06.01|06.20|X|[Y](http://www.ia.cas.cn/yjsjy/zs/sszs/202306/t20230601_6766442.html)|
-|清深|信息科学学部|
+|清深|信息科学学部|06.02|06.20-23:00|X|[Y](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)|
 |哈本|机器人所|
 |哈深|机电学院|
 |北理|机械与车辆学院|
