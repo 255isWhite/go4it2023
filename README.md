@@ -42,9 +42,9 @@ English | [简体中文](.github/README_cn.md)
 |上交|电院|05.20|06.15-24:00|X|[Y](https://mp.weixin.qq.com/s/IERz0GMemmwelCO2YLPMMw)|
 |上交|密西根|05.23|06.27-24::00|X|[Y](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-05-24/138602/)|
 |浙大|控制学院|05.20|06.21-00:00|O|[Y](http://www.cse.zju.edu.cn/2023/0520/c39333a2759662/page.htm)|
-|北大|工学院|05.24|06.12-08:00|X|[Y](https://www.coe.pku.edu.cn/graduate/notice/12117.html)|
-|北大|信息工程学院|05.24|06.25-24:00|X|[Y](https://www.ece.pku.edu.cn/info/1027/2607.htm)|
-|北大|智能学院|05.29|06.14-24:00|X|[Y](https://www.cis.pku.edu.cn/info/1034/2720.htm)|
+|北大|工学院|05.24|06.12-08:00|O|[Y](https://www.coe.pku.edu.cn/graduate/notice/12117.html)|
+|北大|信息工程学院|05.24|06.25-24:00|O|[Y](https://www.ece.pku.edu.cn/info/1027/2607.htm)|
+|北大|智能学院|05.29|06.14-24:00|O|[Y](https://www.cis.pku.edu.cn/info/1034/2720.htm)|
 |中山|AI|05.26|06.15-24:00|O|[Y](https://sai.sysu.edu.cn/teach/graduate/1409130.htm)|
 |中科|科学岛|06.01|06.30|X|[Y](https://xly.ustc.edu.cn/news.php?newsid=932)|
 |中科|先研院|06.01|06.30|X|[Y](https://xly.ustc.edu.cn/news.php?newsid=925)|
