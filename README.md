@@ -54,6 +54,7 @@ English | [简体中文](.github/README_cn.md)
 |国科|自所|06.01|06.20|X|[Y](http://www.ia.cas.cn/yjsjy/zs/sszs/202306/t20230601_6766442.html)|
 |深研|集成所|05.30|06.25|O|[Y](https://www.siat.ac.cn/jgsz2016/jgdh2016/kybm2016/jcs2016/zszl2020/202305/t20230529_6764116.html)|
 |清深|电信AI|06.02|06.20-23:00|O|[Y](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)|
+|国防|智能科学学院|06.09|06.25-24:00|X|[Y](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13079)|
 |~~西湖~~|~~工学院~~|~~04.12~~|~~06.12-12:00~~|~~X~~|~~[Y](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)~~|
 |~~上交~~|~~机械学院~~|~~05.29~~|~~06.16-24:00~~|~~X~~|~~[Y](https://me.sjtu.edu.cn/YanJS/mainnotice/7148.html)~~|
 |~~清华~~|~~叉院~~|~~04.27~~|~~05.15-24:00~~|~~X~~|~~[Y](https://mp.weixin.qq.com/s/cS3CcgjAWA8QdWwhxQhdtA)~~|
@@ -66,7 +67,7 @@ English | [简体中文](.github/README_cn.md)
 |武大||
 |南科|cse|
 |天大||
-|国防|智能科学学院|
+
 
 
 </center>
@@ -76,7 +77,7 @@ English | [简体中文](.github/README_cn.md)
 <summary>Summer Camps Participation Timeline</summary>
 <center>
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-:|:-:|:-:|:-:|:-:|
 |复旦|工研院|06.30|07.03|
 |同济|汽车|07.02|07.05 am||
